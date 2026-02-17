@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = StudentPortfolio
+build_property.RootNamespace = StudentPortfolio
+build_property.ProjectDir = E:\AIUB\AIUB 12th SEMESTER\ADVANCED PRO WITH .NET [C]\SELF STUDY\StudentPortfolio\StudentPortfolio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\AIUB\AIUB 12th SEMESTER\ADVANCED PRO WITH .NET [C]\SELF STUDY\StudentPortfolio\StudentPortfolio
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Portfolio/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEVkdWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Portfolio/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFByb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Portfolio/Referenes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFJlZmVyZW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AIUB/AIUB 12th SEMESTER/ADVANCED PRO WITH .NET \[C\]/SELF STUDY/StudentPortfolio/StudentPortfolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zodcaym0jt
