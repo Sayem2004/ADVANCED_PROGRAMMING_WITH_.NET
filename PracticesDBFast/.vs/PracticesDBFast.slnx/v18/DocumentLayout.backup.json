@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\practicesdbfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D86F73C7-537F-469F-81D1-891672441E07}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\practicesdbfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\Program.cs",
-              "RelativeDocumentMoniker": "PracticesDBFast\\Program.cs",
-              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\Program.cs",
-              "RelativeToolTip": "PracticesDBFast\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T17:44:27.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PracticesDBFast",
-              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\PracticesDBFast.csproj",
-              "RelativeDocumentMoniker": "PracticesDBFast\\PracticesDBFast.csproj",
-              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\PracticesDBFast.csproj*",
-              "RelativeToolTip": "PracticesDBFast\\PracticesDBFast.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-13T17:30:40.363Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
@@ -57,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\appsettings.json",
-              "RelativeDocumentMoniker": "PracticesDBFast\\appsettings.json",
-              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\appsettings.json",
-              "RelativeToolTip": "PracticesDBFast\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-13T17:25:23.351Z",
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "PracticesDBFast\\EF\\Tables\\Course.cs",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "PracticesDBFast\\EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:50:59.718Z",
               "EditorCaption": ""
             }
           ]
