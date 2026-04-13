@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|solutionrelative:studentportfolio\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{203DCF23-6435-FFAF-718F-51C42DEC6A1E}|StudentPortfolio\\StudentPortfolio.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\studentportfolio\\studentportfolio\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "List.cshtml",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "StudentPortfolio\\Views\\Student\\List.cshtml",
               "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Student\\List.cshtml",
               "RelativeToolTip": "StudentPortfolio\\Views\\Student\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-17T15:22:47.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentPortfolio\\Views\\Student\\Index.cshtml",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Education.cshtml",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Portfolio\\Education.cshtml",
               "RelativeDocumentMoniker": "StudentPortfolio\\Views\\Portfolio\\Education.cshtml",
@@ -135,20 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Project.cshtml",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Portfolio\\Project.cshtml",
               "RelativeDocumentMoniker": "StudentPortfolio\\Views\\Portfolio\\Project.cshtml",
               "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Portfolio\\Project.cshtml",
               "RelativeToolTip": "StudentPortfolio\\Views\\Portfolio\\Project.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-17T15:07:38.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\StudentPortfolio\\StudentPortfolio\\Views\\Portfolio\\Index.cshtml",
               "RelativeDocumentMoniker": "StudentPortfolio\\Views\\Portfolio\\Index.cshtml",
