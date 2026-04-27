@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\practicesdbfast\\practicesdbfast\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8381230E-232B-4ACF-8227-9D4A1121E245}|PracticesDBFast\\PracticesDBFast.csproj|solutionrelative:practicesdbfast\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\Program.cs",
+              "RelativeDocumentMoniker": "PracticesDBFast\\Program.cs",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\Program.cs",
+              "RelativeToolTip": "PracticesDBFast\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T03:37:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Course.cs",
               "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\PracticesDBFast\\PracticesDBFast\\EF\\Tables\\Course.cs",
               "RelativeDocumentMoniker": "PracticesDBFast\\EF\\Tables\\Course.cs",

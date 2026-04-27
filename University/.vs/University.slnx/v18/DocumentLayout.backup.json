@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\university\\university\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|solutionrelative:university\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\university\\university\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|solutionrelative:university\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\university\\university\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|solutionrelative:university\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\university\\university\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|solutionrelative:university\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|e:\\aiub\\aiub 12th semester\\advanced pro with .net [c]\\self study\\university\\university\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B1A7690-AA2D-447E-9D20-4FED94C8A09A}|University\\University.csproj|solutionrelative:university\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "University\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "University\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:50:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "University\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "University\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:49:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Program.cs",
+              "RelativeDocumentMoniker": "University\\Program.cs",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Program.cs",
+              "RelativeToolTip": "University\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:47:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "University\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "University\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T02:47:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "University\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\AIUB\\AIUB 12th SEMESTER\\ADVANCED PRO WITH .NET [C]\\SELF STUDY\\University\\University\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "University\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:45:57.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
